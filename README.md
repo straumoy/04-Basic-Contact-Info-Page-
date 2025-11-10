@@ -19,3 +19,5 @@ This contact page uses:
     target="_blank" to open external links in a new tab
 
 It’s a great introduction to HTML linking and formatting practices.
+
+see contact_info.png for template
